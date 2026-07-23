@@ -1,5 +1,8 @@
 # 🚨 Log Anomaly Detector
 
+[![CI](https://github.com/rahulkhatri922/log-anomaly-detector/actions/workflows/ci.yml/badge.svg)](https://github.com/rahulkhatri922/log-anomaly-detector/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-38bdf8.svg)](LICENSE)
+
 An end-to-end ML pipeline that **ingests application logs, learns what "normal"
 looks like, and flags anomalies** — traffic spikes, error bursts, and latency
 regressions — using an **Isolation Forest** plus a **Z-score statistical
